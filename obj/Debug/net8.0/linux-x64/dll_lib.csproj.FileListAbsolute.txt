@@ -1,0 +1,12 @@
+/home/juanjose/python/dll_lib/bin/Debug/net8.0/linux-x64/dll_lib.deps.json
+/home/juanjose/python/dll_lib/bin/Debug/net8.0/linux-x64/dll_lib.dll
+/home/juanjose/python/dll_lib/bin/Debug/net8.0/linux-x64/dll_lib.pdb
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.AssemblyInfoInputs.cache
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.AssemblyInfo.cs
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.csproj.CoreCompileInputs.cache
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.sourcelink.json
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.dll
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/refint/dll_lib.dll
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/dll_lib.pdb
+/home/juanjose/python/dll_lib/obj/Debug/net8.0/linux-x64/ref/dll_lib.dll
