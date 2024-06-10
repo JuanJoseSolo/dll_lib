@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {},
-    "net8.0/win-x86": {}
+    "net8.0/win-x64": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -69,7 +69,7 @@
       }
     },
     "runtimes": {
-      "win-x86": {
+      "win-x64": {
         "#import": []
       }
     }
